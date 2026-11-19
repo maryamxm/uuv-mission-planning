@@ -14,7 +14,7 @@ docs/        README.md                        (full documentation)
 
 ## Quick start
 
-Load a domain with its matching problem into [planning.domains](https://planning.domains/) and solve with BFWS (FF-parser).
+Load a domain with its matching problem into planning domains and solve with BFWS (FF-parser).
 
 | Problem | Domain |
 |---|---|
