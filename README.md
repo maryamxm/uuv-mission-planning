@@ -2,7 +2,7 @@
 
 PDDL models in which unmanned underwater vehicles (UUVs), deployed from ships, navigate between waypoints to collect images, sonar scans and samples.
 
-Developed for F29AI (Artificial Intelligence and Intelligent Agents) coursework at Heriot-Watt University Dubai.
+Developed for F29AI (Artificial Intelligence and Intelligent Agents) coursework at Heriot-Watt University Dubai (October 2024).
 
 ## Structure
 
